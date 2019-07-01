@@ -1,0 +1,57 @@
+<section class="section">
+    <div class="container">
+        <div class="columns">
+
+            <!-- LEFT SIDE -->
+            <div class="column is-two-thirds">
+                <div class="columns is-multiline">
+
+                    <!-- Title -->
+                    <div class="column is-full">
+                        
+                    </div>
+
+                    <!-- Description -->
+                    <div class="column is-full">
+                        
+                    </div>
+
+                    <!-- About Buyer -->
+                    <div class="column">
+                        <div class="card">
+                            <div class="card-content">
+                                <strong>About the Buyer</strong> 
+                                <hr/>
+
+                                <div class="content">
+                                    <div class="columns">
+
+                                        <!-- Buyer Avatar -->
+                                        <div class="column">
+                                            
+                                        </div>
+
+                                        <!-- Buyer Profile -->
+                                        <div class="column f-15">
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <!-- RIGHT SIDE -->
+            <div class="column">
+                
+            </div>
+
+        </div>
+    </div>
+</section>
